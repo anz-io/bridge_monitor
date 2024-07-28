@@ -1,0 +1,45 @@
+{
+  "main": {
+    "walletAddress": "",
+    "privateKey": "",
+    "check_time": 0,
+    "botToken": "",
+    "chatIDs": [],
+    "lark_bot": "",
+    "postgresURI": ""
+  },
+  "chains": {
+    "ethereum": {
+      "rpcUrl": "",
+      "mesonContract": "",
+      "mesonIndex": 0,
+      "tokendecimal": 0,
+      "startBlock": 0,
+      "tokenContract": ""
+    },
+    "binanceSmartChain": {
+      "rpcUrl": "",
+      "mesonContract": "",
+      "mesonIndex": 0,
+      "tokendecimal": 0,
+      "startBlock": 0,
+      "tokenContract": ""
+    },
+    "zkLinkNova": {
+      "rpcUrl": "",
+      "mesonContract": "",
+      "mesonIndex": 0,
+      "tokendecimal": 0,
+      "startBlock": 0,
+      "tokenContract": ""
+    },
+    "mantle": {
+      "rpcUrl": "",
+      "mesonContract": "",
+      "mesonIndex": 0,
+      "tokendecimal": 0,
+      "startBlock": 0,
+      "tokenContract": ""
+    }
+  }
+}
